@@ -1,5 +1,5 @@
 Télécom Physique Strasbourg
-Projet Math´ematiques-Informatique
+Projet Mathématiques-Informatique
 January 2023
 
 
