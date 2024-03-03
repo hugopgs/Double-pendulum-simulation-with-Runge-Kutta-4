@@ -1,4 +1,9 @@
+Télécom Physique Strasbourg
+Projet Math´ematiques-Informatique
+January 2023
 
+
+Double-pendulum-simulation-with-Runge-Kutta-4
 
 
 Theory of chaos is a sector of mathematics and physics. In order to learn more
@@ -13,3 +18,6 @@ totally different evolution which leads to impossible prediction of the movement
 in the long term. Before studying the double pendulum, we will look at the
 simple pendulum so that we could explain and reuse different concepts for the
 double pendulum.
+
+Hugo PAGES, Tony PREDIERI, Antonin PIVARD, Clotilde
+ROUSSET
